@@ -1,0 +1,27 @@
+{
+  "citations": [
+    "[creatoreconomy.so](https://creatoreconomy.so/p/18-hot-takes-on-where-ai-is-headed)",
+    "[blog.google](https://blog.google)",
+    "[CNBC](https://www.cnbc.com)",
+    "[SC Media](https://www.scmedia.com)",
+    "[MIT News](https://news.mit.edu)",
+    "[Yahoo Finance](https://finance.yahoo.com)"
+  ],
+  "design_plan": "RNG(seed=42): select comparison-page architecture; AIDA passed (Attention hero, Interest workflow pain, Desire cache advantage, Action CTAs). Hero math: 68 chars/line -> 2\u20133 lines @1120px. Bento density verified via grid-auto-flow:dense. Label sweep: creators/coaches language, no invented pricing. Button contrast checked (ink/white pills).",
+  "generated_at": "2026-07-03T13:51:32.724635+00:00",
+  "headline": "Super for creators and coaches turning conversations into content and operations",
+  "site_brief": {
+    "audience": "creators and coaches turning conversations into content and operations",
+    "goal": "Create a conversion-focused landing page for this audience. Tie current market evidence to pain points, then show how Super can operate apps and reuse a computer-use cache for repeated work.",
+    "kind": "niche_landing",
+    "queries": [
+      "creators and coaches turning conversations into content and operations AI assistant",
+      "creators and coaches turning conversations into content and operations personal AI agent",
+      "computer use AI agent",
+      "AI workflow automation"
+    ],
+    "slug": "super-for-creators-and-coaches-turning-conversations-into",
+    "title": "Super for creators and coaches turning conversations into content and operations"
+  },
+  "summary": "A conversion-focused niche landing page that reuses Super\u2019s best comparison-page visual system to show creators and coaches how a personal AI agent can operate real apps, turn conversations into assets, and reuse a computer-use cache for faster, cheaper repeated workflows\u2014positioned clearly against ChatGPT, Gemini, Grok, Siri, Folk, and Orchids."
+}
